@@ -1,4 +1,4 @@
-# Ziraat Bankası Web Service Transactions
+# TC Ziraat Bank Web Service Transactions
 
 It is used to withdraw account transactions from Ziraat Bank web service.
 
